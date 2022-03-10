@@ -22,10 +22,10 @@
 *.copy working-tree-encoding=ibm-1047 git-encoding=utf-8
 *.lmod working-tree-encoding=ibm-1047 git-encoding=utf-8
 *.dtl working-tree-encoding=ibm-1047 git-encoding=utf-8
-*.py working-tree-encoding=ibm-1047 git-encoding=utf-8
-*.html working-tree-encoding=ibm-1047 git-encoding=utf-8
-*.css working-tree-encoding=ibm-1047 git-encoding=utf-8
-*.map working-tree-encoding=ibm-1047 git-encoding=utf-8
-*.js working-tree-encoding=ibm-1047 git-encoding=utf-8
-*.scss working-tree-encoding=ibm-1047 git-encoding=utf-8
-*.scss working-tree-encoding=ibm-1047 git-encoding=utf-8
+#*.py working-tree-encoding=ibm-1047 git-encoding=utf-8
+#*.html working-tree-encoding=ibm-1047 git-encoding=utf-8
+#*.css working-tree-encoding=ibm-1047 git-encoding=utf-8
+#*.map working-tree-encoding=ibm-1047 git-encoding=utf-8
+#*.js working-tree-encoding=ibm-1047 git-encoding=utf-8
+#*.scss working-tree-encoding=ibm-1047 git-encoding=utf-8
+#*.scss working-tree-encoding=ibm-1047 git-encoding=utf-8
